@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dchisholm125
-- 👀 I’m interested in becoming a Software Engineer, contributing to Open Source projects, and building a Game Studio or doing AI or Graphics Programming for a GameDev company
-- 🌱 I’m currently learning advanced topics in Java & C# and am an intermediate in both, while still a beginner at Unity 3D, but getting better!
-- 💞️ I’m looking to collaborate on ANYTHING! I'm trying to change careers at the ripe old age of 32=P
+- 👀 I’ve been a Software Engineer for 2 years, and have been tinkering with C# and Java for a further 2 years before that. I love efficiency, and am always searching to optimize my code or increase performance.
+- 🌱 I’m currently honing more advanced M.E.R.N. technology stack skills and brushing up on NoSQL databases alongside Bootstrap styling and React.JS
+- 💞️ I’m looking to help build iron-clad connections from back-end logic to front-end business logic, or even some fun GameDev projects!
 - 📫 How to reach me
 
 <!---
